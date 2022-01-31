@@ -1,7 +1,3 @@
-//Version 0.8
-//Change for servos
-//Add wiring/pinouts 
-//
 //**************************************************************************
 #include <SPI.h>
 #include <SX127XLT.h>
